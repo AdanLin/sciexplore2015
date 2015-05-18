@@ -1,0 +1,251 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#head {
+	height: 173px;
+	width: 1007px;
+	background-image: url(../img/banner-01.png);
+}
+nav a {
+	font-family: "微軟正黑體";
+	font-size: 20px;
+	color: rgba(102,102,102,1);
+	width: 100px;
+	text-align: justify;
+	letter-spacing: 5px;
+	vertical-align: middle;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid rgba(243,243,243,1);
+	margin-right: 10px;
+}
+nav a:hover {
+	background-color:rgba(255,51,102,1);
+	color:rgba(255,255,255,1);
+}
+
+nav {
+	height: 40px;
+	width: 704px;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: rgba(193,39,45,1);
+	background-color: rgba(255,255,255,1);
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(235,235,235,1);
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-left: 150px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	-moz-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	webkit-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+		box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	padding-right: 150px;
+	margin-top: 20px;
+}
+
+
+body {
+	background-attachment: scroll;
+	background-image: url(../img/bg2-02.jpg);
+	background-repeat: repeat;
+	background-position: center top;
+}
+table {
+	border: thin solid rgba(204,204,204,1);
+}
+
+.center {
+	font-family: "微軟正黑體";
+	width: 884px;
+	margin-bottom: 0px;
+	background-color: rgba(255,255,255,1);
+	padding-top: 5px;
+	padding-right: 60px;
+	padding-bottom: 30px;
+	padding-left: 60px;
+	box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	-moz-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	-webkit-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(204,204,204,1);
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: rgba(255,255,255,1);
+	margin-top: 10px;
+}
+.cnter table tr , .center table tr td, .center table tr th{
+	font-family: "微軟正黑體";
+	height:30px;
+}
+
+
+
+#content {
+	height: auto;
+	width: 1007px;
+	padding-top: 0px;
+	position: relative;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+#center {
+	width: 884px;
+	margin-bottom: 0px;
+	background-color: rgba(255,255,255,1);
+	padding-top: 5px;
+	padding-right: 60px;
+	padding-bottom: 30px;
+	padding-left: 60px;
+	box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	-moz-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	-webkit-box-shadow: 0px 1px 1px 1px rgba(51,51,51,0.1);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(204,204,204,1);
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: rgba(255,255,255,1);
+	margin-top: 10px;
+}
+h1 {
+	font-family: "微軟正黑體";
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+	line-height: 50px;
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: rgba(153,0,0,1);
+	text-align: justify;
+}
+
+h3 {
+	font-family: "微軟正黑體";
+	font-size: 17px;
+	line-height: 30px;
+	color: rgba(0,0,0,1);
+	font-weight: bolder;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(204,204,204,1);
+}
+h4 {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	line-height: 20px;
+	color: rgba(102,102,102,1);
+	margin-top: 5px;
+}
+
+
+
+#footer {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	color: rgba(102,102,102,1);
+	text-align: center;
+	width: 1004px;
+	line-height: 22px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+#footer table tr td {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	line-height: 30px;
+	color: rgba(102,102,102,1);
+}
+
+
+h2 {
+	font-family: "微軟正黑體";
+	font-size: 17px;
+	line-height: 40px;
+	color: rgba(51,51,51,1);
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#vote {
+	background-color: rgba(153,0,0,1);
+	height: 30px;
+	width: 130px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+
+}
+#sent {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+	line-height: 30px;
+	color: rgba(0,0,0,1);
+	padding: 5px;
+	letter-spacing: 2px;
+	margin-top: 15px;
+}
+
+#vote a {
+	letter-spacing: 10px;
+	font-family: "微軟正黑體";
+	font-size: 20px;
+	line-height: 30px;
+	color: rgba(255,255,255,1);
+	margin-left: 10px;
+}
+
+
+
+.box {
+	border: 1px solid rgba(204,204,204,1);
+	padding: 20px;
+	float: left;
+	height: 225px;
+	width: 228px;
+	margin: 10px;
+}
+h5 {
+	font-family: "微軟正黑體";
+	font-size: 18px;
+	line-height: 32px;
+	color: rgba(153,0,0,1);
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: rgba(204,204,204,1);
+	font-weight: bolder;
+	margin-top: 5px;
+}
+
+iframe {
+	height: 1100px;
+	width: 880px;
+	margin-top: 20px;
+}
+#log {
+	height: 35px;
+	width: 85px;
+	margin-left: 8px;
+	letter-spacing: 3px;
+	text-align: justify;
+	margin-top: 5px;
+	background-color: rgba(255,255,255,1);
+}
+#content #log table tr td a {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	line-height: 30px;
+	color: rgba(153,153,153,0.5);
+}
+#content #log table tr td a:hover {
+	color: rgba(255,255,255,1);
+}
+#content #log table tr td:hover {
+	background-color: rgba(217,55,114,1);
+}
