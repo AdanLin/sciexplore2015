@@ -1,0 +1,1043 @@
+{
+  "class": "go.TreeModel",
+  "nodeDataArray": [
+    {
+      "key": "0",
+      "parent": "0",
+      "text": "地質",
+      "link": "y"
+    },
+    {
+      "key": "2-1-1",
+      "parent": "0",
+      "text": "地殼變動",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "2-1-2",
+      "parent": "0",
+      "text": "地殼組成",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "2-1-3",
+      "parent": "0",
+      "text": "板塊構造的運動",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "2-1-4",
+      "parent": "0",
+      "text": "固體地球的分層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-1-1",
+      "parent": "2-1-1",
+      "text": "內營力",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-1-2",
+      "parent": "2-1-1",
+      "text": "外營力",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-1-3",
+      "parent": "2-1-1",
+      "text": "地質災害",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-2-1",
+      "parent": "2-1-2",
+      "text": "礦物",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-2-2",
+      "parent": "2-1-2",
+      "text": "岩石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-3-1",
+      "parent": "2-1-3",
+      "text": "台灣的板塊運動",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-3-2",
+      "parent": "2-1-3",
+      "text": "邊界",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-3-3",
+      "parent": "2-1-3",
+      "text": "學說",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-3-4",
+      "parent": "2-1-3",
+      "text": "地震帶與火山分布",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-4-1",
+      "parent": "2-1-4",
+      "text": "依據[組成]分層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-4-2",
+      "parent": "2-1-4",
+      "text": "依據[物理]分層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "3-4-3",
+      "parent": "2-1-4",
+      "text": "探測方法",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+      "key": "4-1-1",
+      "parent": "3-1-1",
+      "text": "岩漿活動",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-1-2",
+      "parent": "3-1-1",
+      "text": "構造活動",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-2-3",
+      "parent": "3-1-2",
+      "text": "沉積",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-2-4",
+      "parent": "3-1-2",
+      "text": "搬運",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-2-5",
+      "parent": "3-1-2",
+      "text": "侵蝕",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-2-6",
+      "parent": "3-1-2",
+      "text": "風化",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-3-1",
+      "parent": "3-1-3",
+      "text": "山崩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-3-2",
+      "parent": "3-1-3",
+      "text": "海嘯",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-3-3",
+      "parent": "3-1-3",
+      "text": "火山災害",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-3-4",
+      "parent": "3-1-3",
+      "text": "地震災害",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-3-5",
+      "parent": "3-1-3",
+      "text": "土石流",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-4-1",
+      "parent": "3-4-1",
+      "text": "地殼",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-4-2",
+      "parent": "3-4-1",
+      "text": "地函",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-4-3",
+      "parent": "3-4-1",
+      "text": "外地核",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-4-4",
+      "parent": "3-4-1",
+      "text": "內地核",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-5-1",
+      "parent": "3-4-2",
+      "text": "岩石圈",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-5-2",
+      "parent": "3-4-2",
+      "text": "軟流圈",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-6-1",
+      "parent": "3-4-3",
+      "text": "震波",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-6-2",
+      "parent": "3-4-3",
+      "text": "地球物理探測",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-7-1",
+      "parent": "3-2-2",
+      "text": "岩石循環",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-7-2",
+      "parent": "3-2-2",
+      "text": "岩石分類",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-8-1",
+      "parent": "3-2-1",
+      "text": "定義",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-8-2",
+      "parent": "3-2-1",
+      "text": "常見造岩礦物",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-8-3",
+      "parent": "3-2-1",
+      "text": "物理性質",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-1",
+      "parent": "3-3-1",
+      "text": "菲律賓海板塊",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-2",
+      "parent": "3-3-1",
+      "text": "歐亞板塊",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-3",
+      "parent": "3-3-1",
+      "text": "琉球島孤",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-4",
+      "parent": "3-3-1",
+      "text": "呂宋島孤",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-5",
+      "parent": "3-3-1",
+      "text": "縫合帶",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-12-6",
+      "parent": "3-3-1",
+      "text": "沖繩海槽",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-9-1",
+      "parent": "3-3-2",
+      "text": "錯動型",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-9-2",
+      "parent": "3-3-2",
+      "text": "聚合型",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-9-3",
+      "parent": "3-3-2",
+      "text": "張裂型",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-10-1",
+      "parent": "3-3-3",
+      "text": "大陸漂移學說",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-10-2",
+      "parent": "3-3-3",
+      "text": "海底擴張學說",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-10-3",
+      "parent": "3-3-3",
+      "text": "板塊構造學說",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-11-1",
+      "parent": "3-3-4",
+      "text": "地震帶",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-11-2",
+      "parent": "3-3-4",
+      "text": "火環",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "4-11-3",
+      "parent": "3-3-4",
+      "text": "熱點火山",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-1-1",
+      "parent": "4-6-1",
+      "text": "震波性質",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-2-1",
+      "parent": "4-2-6",
+      "text": "物理風化",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-2-2",
+      "parent": "4-2-6",
+      "text": "化學風化",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-2-3",
+      "parent": "4-2-6",
+      "text": "生物風化",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-3-1",
+      "parent": "4-1-2",
+      "text": "地震",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-3-2",
+      "parent": "4-1-2",
+      "text": "地質構造",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-4-1",
+      "parent": "4-3-4",
+      "text": "土壤液化",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-5-1",
+      "parent": "4-9-1",
+      "text": "轉型斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-6-1",
+      "parent": "4-9-2",
+      "text": "火山島孤",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-6-2",
+      "parent": "4-9-1",
+      "text": "海溝",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-6-3",
+      "parent": "4-9-1",
+      "text": "隱沒帶",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-6-4",
+      "parent": "4-9-1",
+      "text": "造山帶",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-6-5",
+      "parent": "4-9-1",
+      "text": "班尼奧夫帶",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-7-1",
+      "parent": "4-9-3",
+      "text": "中洋脊",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-8-1",
+      "parent": "4-8-2",
+      "text": "矽酸鹽類",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-8-2",
+      "parent": "4-8-2",
+      "text": "硫酸鹽類",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-8-3",
+      "parent": "4-8-2",
+      "text": "碳酸鹽類",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-9-1",
+      "parent": "4-8-3",
+      "text": "硬度",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-9-2",
+      "parent": "4-8-3",
+      "text": "解理",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-10-1",
+      "parent": "4-7-2",
+      "text": "火成岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-10-2",
+      "parent": "4-7-2",
+      "text": "沉積岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "5-10-3",
+      "parent": "4-7-2",
+      "text": "變質岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-1-1",
+      "parent": "5-3-1",
+      "text": "震度",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-1-2",
+      "parent": "5-3-1",
+      "text": "地震規模",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-2-1",
+      "parent": "5-3-2",
+      "text": "褶皺",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-2-1",
+      "parent": "5-3-2",
+      "text": "褶皺",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-2-2",
+      "parent": "5-3-2",
+      "text": "節理",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-2-3",
+      "parent": "5-3-2",
+      "text": "斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-3-1",
+      "parent": "5-8-1",
+      "text": "鐵美質",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-3-2",
+      "parent": "5-8-1",
+      "text": "黏土礦物",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-3-3",
+      "parent": "5-8-1",
+      "text": "長石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-3-4",
+      "parent": "5-8-1",
+      "text": "石英",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-4-1",
+      "parent": "5-8-2",
+      "text": "石膏",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-5-1",
+      "parent": "5-8-3",
+      "text": "方解石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-6-1",
+      "parent": "5-9-1",
+      "text": "摩氏硬度",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-7-1",
+      "parent": "5-10-1",
+      "text": "火山岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-7-2",
+      "parent": "5-10-1",
+      "text": "深成岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-8-1",
+      "parent": "5-10-2",
+      "text": "碎屑",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-8-2",
+      "parent": "5-10-2",
+      "text": "非碎屑",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-9-1",
+      "parent": "5-10-3",
+      "text": "葉片狀",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "6-9-2",
+      "parent": "5-10-3",
+      "text": "非葉片狀",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-1-1",
+      "parent": "6-2-3",
+      "text": "正斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-1-2",
+      "parent": "6-2-3",
+      "text": "逆斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-1-3",
+      "parent": "6-2-3",
+      "text": "平移斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-2-1",
+      "parent": "6-3-1",
+      "text": "輝石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-2-2",
+      "parent": "6-3-1",
+      "text": "角閃石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-2-3",
+      "parent": "6-3-1",
+      "text": "橄欖石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-2-4",
+      "parent": "6-3-1",
+      "text": "黑雲母",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-3-1",
+      "parent": "6-3-2",
+      "text": "高嶺石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-4-1",
+      "parent": "6-3-3",
+      "text": "正長石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-4-2",
+      "parent": "6-3-3",
+      "text": "微斜長石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-5-1",
+      "parent": "6-7-1",
+      "text": "橄欖岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-5-2",
+      "parent": "6-7-1",
+      "text": "輝長岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-5-3",
+      "parent": "6-7-1",
+      "text": "閃長岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-5-4",
+      "parent": "6-7-1",
+      "text": "花崗岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-6-1",
+      "parent": "6-7-2",
+      "text": "玄武岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-6-2",
+      "parent": "6-7-2",
+      "text": "安山岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-6-3",
+      "parent": "6-7-2",
+      "text": "流紋岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-6-4",
+      "parent": "6-7-2",
+      "text": "黑曜岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-6-5",
+      "parent": "6-7-2",
+      "text": "浮石",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-7-1",
+      "parent": "6-8-1",
+      "text": "泥岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-7-2",
+      "parent": "6-8-1",
+      "text": "頁岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-7-3",
+      "parent": "6-8-1",
+      "text": "粉砂岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-7-5",
+      "parent": "6-8-1",
+      "text": "礫岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-8-1",
+      "parent": "6-8-2",
+      "text": "蒸發岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-8-2",
+      "parent": "6-8-2",
+      "text": "石灰岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-9-1",
+      "parent": "6-9-2",
+      "text": "大理岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-9-2",
+      "parent": "6-9-2",
+      "text": "石英岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-9-3",
+      "parent": "6-9-2",
+      "text": "蛇紋岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-10-1",
+      "parent": "6-9-1",
+      "text": "片麻岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-10-2",
+      "parent": "6-9-1",
+      "text": "片岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "7-10-3",
+      "parent": "6-9-1",
+      "text": "板岩",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "8-1-1",
+      "parent": "7-1-2",
+      "text": "轉型斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    },
+    {
+       "key": "8-2-2",
+      "parent": "7-1-3",
+      "text": "逆衝斷層",
+      "dir": "right",
+      "brush": "skyblue",
+      "link": "y"
+    }
+  ]
+}
